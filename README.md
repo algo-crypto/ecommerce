@@ -62,3 +62,12 @@ create product detail screen
 
 1. fetch product from backend
 2. creat 3 columns for image , info and action
+
+creat loading and message component
+
+# steps
+
+1. creat loading component
+2. use spinner component
+3. creat massage component
+4. creat utils.js to define geterror function
