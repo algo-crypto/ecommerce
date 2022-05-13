@@ -71,3 +71,19 @@ creat loading and message component
 2. use spinner component
 3. creat massage component
 4. creat utils.js to define geterror function
+
+implement Add to cart
+
+# steps
+
+1. creat react context
+2. define reducer
+3. creat store provider
+4. implement add to cart click handler
+
+complete add to cart functionality
+
+# steps
+
+1. check exists item in the cart
+2. check count in stock in backend
